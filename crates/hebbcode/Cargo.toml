@@ -1,0 +1,17 @@
+[package]
+name = "hebbcode"
+version.workspace = true
+description = "HebbCode — intelligent programming platform"
+keywords = ["ai", "agent"]
+categories = ["command-line-utilities"]
+readme = "README.md"
+edition.workspace = true
+repository.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[lints]
+workspace = true
+
+[dependencies]
+clap.workspace = true

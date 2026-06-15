@@ -2,7 +2,7 @@
 
 > 🚧 Under Construction
 
-**HebbCode** is an AI agent project named after Hebb's law:
+**HebbCode** is an intelligent programming platform named after Hebb's law:
 
 > *"Cells that fire together, wire together."*
 > — Donald Hebb, *The Organization of Behavior* (1949)

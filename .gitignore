@@ -1,2 +1,15 @@
+# Rust
+/target
+
+# Editors
 .vscode
+.idea
+
+# Claude
 .claude
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
